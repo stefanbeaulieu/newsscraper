@@ -1,0 +1,4 @@
+node_modules
+.DS_Store
+Stefans-MacBook-Pro:newsscraper stefanbeaulieu$ heroku config | grep MONGODB_URI
+MONGODB_URI: mongodb://heroku_fhslskgz:10nctocjmf3nktjnv8dkigb418@ds135689.mlab.com:35689/heroku_fhslskgz
